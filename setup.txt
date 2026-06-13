@@ -1,3 +1,12 @@
 1 -->  git init
 
-2 --> 
+2 -->  git add .
+
+3 --> git commit -m "Add msg here"
+
+4 --> git branch -M main
+
+5 ---> git add remote origin <url>
+
+6 ---> git push -u origin main
+
