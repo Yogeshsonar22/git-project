@@ -20,3 +20,5 @@ remote changes in loca repo >> git fetch
 
 ---
 End
+
+Diagram understand: https://excalidraw.com/#json=Fz_PurRgEUHxYFfFi22rW,2RKjlqhHSZ-XhDfNqFzLDw
